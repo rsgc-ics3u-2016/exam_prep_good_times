@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		815565E81EE1DE6A00DA8944 /* Exam Prep - 2 - Good Times - Algorithm.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Exam Prep - 2 - Good Times - Algorithm.pdf"; sourceTree = "<group>"; };
 		817DBE3E1EDC4D0600CF91AA /* Exam Prep - 2 - Good Times - Test Plan.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Exam Prep - 2 - Good Times - Test Plan.pdf"; sourceTree = "<group>"; };
 		81E2E2F71ED74D3A00B3D2C8 /* ExamPrepGoodTimes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ExamPrepGoodTimes; sourceTree = BUILT_PRODUCTS_DIR; };
 		81E2E2FA1ED74D3A00B3D2C8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 				817DBE3E1EDC4D0600CF91AA /* Exam Prep - 2 - Good Times - Test Plan.pdf */,
 				81E2E3021ED74DA100B3D2C8 /* Exam Prep - 2 - Good Times.pdf */,
 				81E2E3031ED74DA100B3D2C8 /* Exam Prep - 2 - Good Times - Algorithm.docx */,
+				815565E81EE1DE6A00DA8944 /* Exam Prep - 2 - Good Times - Algorithm.pdf */,
 			);
 			name = Documents;
 			sourceTree = "<group>";
